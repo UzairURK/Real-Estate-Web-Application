@@ -1,4 +1,7 @@
 # Real-Estate-Web-Application
 React Firebase Real Estate Project. 
-"*" Features will be defined later on
+* This project is created for practise and learning purpose, implementaing React Concepts.
+# What I learn:
+# Chanllenges
+# Features
 
